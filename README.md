@@ -107,7 +107,7 @@ To view the data that has been entered,
 http://localhost:8000/products/ 
 ```
 and click Send.
-You should get a response showing all th eproducts that have been added:
+You should get a response showing all the products that have been added:
 
 # Author
 Samuel Cromwell
