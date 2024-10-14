@@ -97,5 +97,17 @@ python manage.py runserver
 ]
 ```
 
+You should see a response with a status of 201 Created if the data was inserted successfully.
+To view the data that has been entered,
+
+- Still on Postman, set the method to GET.
+- Enter the URL
+
+```bash
+http://localhost:8000/products/ 
+```
+and click Send.
+You should get a response showing all th eproducts that have been added:
+
 # Author
 Samuel Cromwell
